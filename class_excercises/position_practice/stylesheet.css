@@ -1,0 +1,105 @@
+/* *{
+  margin: 0px;
+  padding: 0px;
+}
+#wrapper {
+  width: 950px;
+  background-color: red;
+  margin: 0px auto;
+  padding: 20px;
+}
+#header {
+  height: 150px;
+  background-color: yellow;
+  margin-bottom: 10px;
+}
+#navigation {
+  height: 300px;
+  width: 200px;
+  background-color: blue;
+  display: inline-block;
+  vertical-align: top;
+  margin-right: 10px;
+}
+#main_content {
+  height: 400px;
+  width: 700px;
+  background-color: green;
+  display:inline-block;
+  padding: 15px;
+}
+.subcontents {
+  height: 200px;
+  width: 200px;
+  background-color: purple;
+  display:inline-block;
+  margin-right: 10px;
+}
+#advertisement {
+  height: 110px;
+  width: 650px;
+  background-color: gray;
+  margin-top: 20px;
+} */
+
+*CSS reset settings here*/
+*{
+ margin: 0px;
+ padding: 0px;
+}
+#wrapper{
+ width: 950px;
+ background-color: darkgray;
+ margin: 0px auto;
+ padding: 20px;
+}
+#header{
+ height: 150px;
+ background-color: lightgreen;
+ border-radius: 25px;
+ border-style: solid;
+ border-width: 10px;
+ margin-bottom: 10px
+}
+#navigation{
+ height: 431px;
+ width: 200px;
+ border-radius: 25px;
+ background-color: turquoise;
+ display: inline-block;
+ vertical-align: top;
+ margin-right: 10px
+}
+#main_content{
+ height: 400px;
+ width: 706px;
+ background-color: black;
+ display: inline-block;
+ border-radius: 25px;
+ padding: 15px;
+}
+.subcontents{
+ shape-outside: circle();
+ margin-right: 20px;
+ height: 200px;
+ width: 200px;
+ border-radius: 50%;
+ background-color: silver;
+ display: inline-block;
+ box-shadow: 10px 10px gray;
+}
+#advertisement{
+ height: 120px;
+ width: 660px;
+ border-radius: 25px;
+ background-color: skyblue;
+ margin-top: 20px;
+}
+#footer{
+ height: 100px;
+ width: 300px;
+ display: inline-block;
+ border-radius: 25px;
+ background-color: white;
+ margin-top: 15px;
+}

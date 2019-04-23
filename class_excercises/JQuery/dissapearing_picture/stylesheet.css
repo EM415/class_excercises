@@ -1,0 +1,12 @@
+*{
+  margin: 0px;
+  padding: 0px;
+
+
+#wrapper {
+  width: 950px;
+  border: black line;
+  padding: 10px;
+  border-width: thin;
+  background-color: lightblue;
+}

@@ -1,0 +1,13 @@
+#main_content {
+  height: 400px;
+  width: 700px;
+  background-color: gray;
+}
+.subcontents {
+  height: 200px;
+  width: 200px;
+  background-color: lightblue;
+  display: inline-block;
+  top: 5px;
+  left: 0px;
+}
